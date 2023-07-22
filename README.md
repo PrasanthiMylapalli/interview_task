@@ -1,6 +1,6 @@
 # interview_task
 
-Implementing  a basic blcock chain data structure in JAVA.
+Implementing  a basic block chain data structure in JAVA.
 
 Requirements
 
